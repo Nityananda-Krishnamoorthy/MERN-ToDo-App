@@ -46,13 +46,13 @@ npm run dev
 
 ## 📦 Deployment
 
-# Deployed on Render
+-Deployed on Render
 
--Build Command:
+Build Command:
 ```bash
 npm run build
 ```
--Start Command:
+Start Command:
 ```bash
 npm start
 ```

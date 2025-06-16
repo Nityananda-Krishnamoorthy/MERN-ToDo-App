@@ -46,7 +46,7 @@ npm run dev
 
 ## 📦 Deployment
 
--Deployed on Render
+- Deployed on Render
 
 Build Command:
 ```bash

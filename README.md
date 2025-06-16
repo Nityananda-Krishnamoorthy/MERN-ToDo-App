@@ -41,13 +41,21 @@ MONGO_URI=your_mongodb_uri
 
 # Start in dev mode
 npm run dev
-
+```
 ---
 
-**## 📦 Deployment**
+## 📦 Deployment
 
 ```bash
 # Deployed on Render
 
-Build Command: **npm run build**
-Start Command: **npm start**
+-Build Command:
+```bash
+npm run build
+```
+-Start Command:
+```bash
+npm start
+```
+
+```

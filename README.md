@@ -46,7 +46,6 @@ npm run dev
 
 ## 📦 Deployment
 
-```bash
 # Deployed on Render
 
 -Build Command:
@@ -56,6 +55,4 @@ npm run build
 -Start Command:
 ```bash
 npm start
-```
-
 ```

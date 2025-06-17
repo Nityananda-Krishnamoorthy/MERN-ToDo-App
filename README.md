@@ -2,7 +2,7 @@
 
 A full-stack ToDo app built with the **MERN stack** (MongoDB, Express, React, Node.js) and styled using **Tailwind CSS**.
 
-🔗 **Live Demo**: [mern-todo-app-vpi6.onrender.com](https://mern-todo-app-vpi6.onrender.com)
+🔗 **Live Demo**: [mern-todo-app](https://mern-todo-app-vpi6.onrender.com/)
 
 ---
 
